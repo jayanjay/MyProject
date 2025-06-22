@@ -5,4 +5,4 @@ curl -fsSL https://rpm.nodesource.com/setup_18.x | sudo bash -
 sudo yum install -y nodejs
 cd /home/ec2-user/sample-app
 # Now you can use npm
-npm install
+sudo npm install
